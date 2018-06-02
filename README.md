@@ -15,7 +15,7 @@ xxxx
 
 xxx
 
-![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/Images/MOPPI3.png)
+![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI3.png)
 
 <p align="center"> Les pentagones en orange représentent les établissements pouvant accueillir les employés. </p>
 
