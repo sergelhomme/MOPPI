@@ -15,6 +15,10 @@ xxxx
 
 xxx
 
+![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/Images/MOPPI3.png)
+
+<p align="center"> Les pentagones en orange représentent les établissements pouvant accueillir les employés. </p>
+
 ## RGC4
 
 L'outil MOPPI a été développé dans le cadre d'un projet ANR (CNRS) nommé RGC4. Ce projet regroupe des chercheurs du Lab'Urba (UPEC, EIVP), du LITIS (INSA Rouen), de GéoRessources (Mines de Nancy) et du Cemotev (UVSQ). https://rgc4.wordpress.com/
