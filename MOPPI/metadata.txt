@@ -1,0 +1,11 @@
+[general]
+name=MOPPI
+description=Extension permettant de préparer la mobilité du personnel en période d'inondation
+category=Vector
+version=1.0
+qgisMinimumVersion=2.0
+
+author=Serge Lhomme
+email=serge.lhomme@u-pec.fr
+
+class_name=Moppi
