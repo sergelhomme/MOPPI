@@ -9,11 +9,11 @@
 
 ![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI3.png)
 
-<p align="center"> Les pentagones en orange représentent les établissements pouvant accueillir les employés. Chaque établissement peut acceullir dans cet exemple 50 personnes. Les 200 employés à réaffecter sont repésenté par des points. Les employés représentés par la même couleur sont affectés au même établissement. </p>
+<p align="center"> Les 5 pentagones en orange représentent les établissements pouvant accueillir les employés. Chaque établissement peut acceullir dans cet exemple 100 personnes. Les 500 employés à réaffecter sont repésentés par des points. Les employés représentés par la même couleur sont affectés au même établissement. Ici, tous les employés peuvent se rendre sur un lieu de travail. </p>
 
 ## Géocodage et Distancier
 
-xxxx
+<p align="justify"> </p>
 
 ## Clustering
 
@@ -21,10 +21,12 @@ xxxx
 
 ## RGC4
 
-L'outil MOPPI a été développé dans le cadre d'un projet ANR (CNRS) nommé RGC4. Ce projet regroupe des chercheurs du Lab'Urba (UPEC, EIVP), du LITIS (INSA Rouen), de GéoRessources (Mines de Nancy) et du Cemotev (UVSQ). https://rgc4.wordpress.com/
+<p align="justify"> L'outil MOPPI a été développé dans le cadre d'un projet ANR (CNRS) nommé RGC4. Ce projet regroupe des chercheurs du Lab'Urba (UPEC, EIVP), du LITIS (INSA Rouen), de GéoRessources (Mines de Nancy) et du Cemotev (UVSQ). </p>
+ 
+https://rgc4.wordpress.com/
 
 ## Données
 
-MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles ici. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr
+<p align="justify"> MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles ici. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr </p>
 
-Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement.
+<p align="justify"> Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement. </p>
