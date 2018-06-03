@@ -17,11 +17,15 @@
 
 ![Une illustration du distancier](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI4.png)
 
-<p align="center"> Les 5 pentagones en orange représentent les établissements pouvant accueillir les employés. Les dix points bleus représentent les employés. Les lignes rouges correspondent au distancier calculé par MOPPI. Ce distancier se fondent sur les lignes et les noeuds du réseau en gris. La table du distancier permet de voir le temps néeccseaaire à un employé pour se rendre à un établissement donné. </p>
+<p align="center"> Les 5 pentagones en orange représentent les établissements pouvant accueillir les employés. Les dix points bleus représentent les employés. Les lignes rouges correspondent au distancier calculé par MOPPI. Ce distancier se fonde sur les lignes et les noeuds du réseau représentés en gris. La table du distancier permet de voir le temps nécessaire à un employé pour se rendre à un établissement donné. </p>
 
 ## Clustering
 
 xxxx
+
+![Une illustration du clustering](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI5.png)
+
+<p align="center"> xxx </p>
 
 ## RGC4
 
