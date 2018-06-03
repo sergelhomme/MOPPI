@@ -1,7 +1,7 @@
 # MOPPI
 <p align="justify"> Plugin QGIS cherchant à minimiser les problèmes de mobilité du personnel d'une entreprise, ou plus généralement d'une organisation, en période d'inondation, MOPPI est l'acronyme de MObilité du Personnel en Période d'Inondation. </p>
 
-<p align="justify"> A partir de simples fichiers comportant des adresses (un fichier "employés" et un fichier "établissements" par exemple), l'outil permet premièrement de géolocaliser les employés et les établissements, puis de calculer les temps de parcours des employés vers tous les établissements en se fondant sur différents scénarios de pertubations du réseau routier et/ou du réseau de transport en commun. Le distancier ainsi produit pourra alors être utilisé pour résourdre un problème d'optimisation (de manière exacte ou approchée), cherchant à minimiser le temps total parcouru par l'ensemble des employés vers les établissements. Lorsque qu'il n'est pas possible que tous les employés puissent se rendre sur un lieu de travail accessible malgré l'inondation, l'outil cherchera à minimiser le nombre d'employés ne pouvant pas se rendre sur un lieu de travail. Parfois, afin réduire les temps de calcul, il peut se révéler nécessaire de regrouper les individus en se fondant sur des critères de proximité de leur lieu d'habitation, c'est pourquoi l'outil permet aussi d'effectuer du clustering (des regroupements).</p>
+<p align="justify"> A partir de simples fichiers comportant des adresses (un fichier "employés" et un fichier "établissements" par exemple), l'outil permet premièrement de géolocaliser les employés et les établissements, puis de calculer les temps de parcours des employés vers tous les établissements en se fondant sur différents scénarios de pertubations du réseau routier et/ou du réseau de transport en commun. Le distancier ainsi produit pourra alors être utilisé pour résoudre un problème d'optimisation (de manière exacte ou approchée), cherchant à minimiser le temps total parcouru par l'ensemble des employés vers les établissements. Lorsque qu'il n'est pas possible que tous les employés puissent se rendre sur un lieu de travail accessible à cause de l'inondation, l'outil cherchera à minimiser le nombre d'employés ne pouvant pas se rendre sur un lieu de travail. Parfois, afin réduire les temps de calcul, il peut se révéler nécessaire de regrouper les individus en se fondant sur des critères de proximité de leur lieu d'habitation, c'est pourquoi l'outil permet aussi d'effectuer du clustering (des regroupements).</p>
 
 ## Optimisation
 
@@ -13,7 +13,11 @@
 
 ## Géocodage et Distancier
 
-<p align="justify"> </p>
+<p align="justify"> Pour résoudre le modèle d'optimisation, il est nécessaire : 1) de disposer de données géocodées concernant les établissements et les employés ; 2) de disposer d'un distancier. C'est pourquoi, MOPPI propose de géocoder des données et de calculer ce distancier, c'est à dire de calculer toutes les distances entre les employés et les établissements. Pour calculer, ce distancier deux solutions sont proposées, utiliser des API (par exemple durant la crise) ou utiliser des shapefiles (voire données plus bas). </p>
+
+![Une illustration du distancier](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI4.png)
+
+<p align="center"> xxx </p>
 
 ## Clustering
 
