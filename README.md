@@ -13,7 +13,7 @@
 
 ## Géocodage et Distancier
 
-<p align="justify"> Pour résoudre le modèle d'optimisation, il est nécessaire : 1) de disposer de données géocodées concernant les établissements et les employés ; 2) de disposer d'un distancier. C'est pourquoi, MOPPI propose de géocoder des données et de calculer ce distancier, c'est à dire de calculer toutes les distances entre les employés et les établissements. Pour calculer, ce distancier deux solutions sont proposées, utiliser des API (par exemple durant la crise) ou utiliser des shapefiles (voire données plus bas). </p>
+<p align="justify"> Pour résoudre le modèle d'optimisation, il est nécessaire : 1) de disposer de données géocodées concernant les établissements et les employés ; 2) de disposer d'un distancier. C'est pourquoi, MOPPI propose de géocoder des données et de calculer ce distancier, c'est à dire de calculer tous les courts chemins (en termes de tems de parcours) entre les employés et les établissements. Pour calculer, ce distancier deux solutions sont proposées, utiliser des API (par exemple durant la crise) ou utiliser des shapefiles (voire données plus bas). </p>
 
 ![Une illustration du distancier](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI4.png)
 
@@ -21,7 +21,7 @@
 
 ## Clustering
 
-xxxx
+Afin d'être efficace, il peut être pertinent de regrouper les employés et de ne plus les considérer individuellement. En effet, résoudre le modèle d'optimisation ou calculer le distancier entre tous les employés et tous les établissements peut être très long. 
 
 ![Une illustration du clustering](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI5.png)
 
