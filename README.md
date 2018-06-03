@@ -21,11 +21,11 @@
 
 ## Clustering
 
-Afin d'être efficace, il peut être pertinent de regrouper les employés et de ne plus les considérer individuellement. En effet, résoudre le modèle d'optimisation ou calculer le distancier entre tous les employés et tous les établissements peut être très long. 
+<p align="center"> Afin d'être efficace, il peut être pertinent de regrouper les employés et de ne plus les considérer individuellement. En effet, résoudre le modèle d'optimisation ou calculer le distancier entre tous les employés et tous les établissements peut être très long. </p>
 
 ![Une illustration du clustering](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI5.png)
 
-<p align="center"> Les carrés correpsondent à des groupes d'individus regroupés selon des critères spatiaux. Les points sont les individus. Les points possédant une même couleur sont regroupés par MOPPI au sein du carré de la même couleur. Ici les individus regourpés ne peuvent pas habiter à plus de 50 km et doivent appartenir à une même zones (découpage en orange). La taille des carrés est proportionnel au nombre d'individus regroupés. </p>
+<p align="center"> Dans l’image ci-dessus, les carrés correspondent à des groupes d'employés regroupés selon des critères spatiaux. Les points sont les employés. Les points possédant une même couleur sont regroupés par MOPPI au sein du carré de la même couleur. Ici, les employés regroupés ne peuvent pas habiter à plus de 50 km les uns des autres et doivent appartenir à une même zone (découpage en jaune). La taille des carrés est proportionnelle au nombre d'employés regroupés. </p>
 
 ## RGC4
 
