@@ -25,4 +25,6 @@ L'outil MOPPI a été développé dans le cadre d'un projet ANR (CNRS) nommé RG
 
 ## Données
 
-MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles ici. Pour des applications, veuillez écrire à l'adresse mail suivante serge.lhomme[at]u-pec.fr
+MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles ici. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr
+
+Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement.
