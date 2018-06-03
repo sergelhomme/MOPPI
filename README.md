@@ -21,7 +21,7 @@
 
 ## Clustering
 
-<p align="center"> Afin d'être efficace, il peut être pertinent de regrouper les employés et de ne plus les considérer individuellement. En effet, résoudre le modèle d'optimisation ou calculer le distancier entre tous les employés et tous les établissements peut être très long. </p>
+<p align="justify"> Afin d'être efficace, il peut être pertinent de regrouper les employés et de ne plus les considérer individuellement. En effet, résoudre le modèle d'optimisation ou calculer le distancier entre tous les employés et tous les établissements peut être très long. </p>
 
 ![Une illustration du clustering](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI5.png)
 
