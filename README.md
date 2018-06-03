@@ -5,11 +5,11 @@
 
 ## Optimisation
 
-<p align="justify"> Objectif final de l'outil, le modèle d'optimisation développé propose de réaffecter (redistribuer) le personnel au sein des différents lieux de travail d’une organisation, en tenant compte des probables perturbations de l’offre de transport générées par une inondation. Cette réaffectation doit permettre de minimiser l'impact d'une crue à cinétique lente pour une entreprise ou une oraginisation en permettant au plus grand nombre d'employés de venir travailler alors que les système de transport sont perturbés. </p>
+<p align="justify"> Objectif final de l'outil, le modèle d'optimisation développé propose de réaffecter (redistribuer) le personnel au sein des différents lieux de travail d’une organisation, en tenant compte des probables perturbations de l’offre de transport générées par une inondation. Cette réaffectation doit permettre de minimiser l'impact d'une crue à cinétique lente pour une entreprise, ou une organisation, en permettant au plus grand nombre d'employés de venir travailler alors même que les systèmes de transport sont fortement perturbés. </p>
 
 ![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI3.png)
 
-<p align="center"> Les 5 pentagones en orange représentent les établissements pouvant accueillir les employés. Chaque établissement peut acceullir dans cet exemple 100 personnes. Les 500 employés à réaffecter sont repésentés par des points. L'outil détermine ici que les employés représentés par la même couleur sont affectés au même établissement afin d'obtenir la meilleure solution. Ici, tous les employés peuvent se rendre sur un lieu de travail. </p>
+<p align="center"> Dans l’image ci-dessus, les 5 pentagones orange représentent des établissements pouvant accueillir des employés. Dans cet exemple, chaque établissement peut accueillir 100 employés. Les 500 employés à réaffecter dans ces établissements sont représentés par des points. MOPPI permet alors de déterminer où doivent être affectés ces employés afin de minimiser les problématiques de mobilité causées par une inondation. Ainsi, les employés représentés par la même couleur sont affectés à un même établissement. Ici, tous les employés peuvent se rendre sur un lieu de travail. </p>
 
 ## Géocodage et Distancier
 
