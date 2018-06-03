@@ -9,7 +9,7 @@
 
 ![Une illustration de l'optimisation](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI3.png)
 
-<p align="center"> Les pentagones en orange représentent les établissements pouvant accueillir les employés. </p>
+<p align="center"> Les pentagones en orange représentent les établissements pouvant accueillir les employés. Chaque établissement peut acceullir dans cet exemple 50 personnes. Les 200 employés à réaffecter sont repésenté par des points. Les employés représentés par la même couleur sont affectés au même établissement. </p>
 
 ## Géocodage et Distancier
 
