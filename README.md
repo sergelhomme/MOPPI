@@ -25,7 +25,7 @@ xxxx
 
 ![Une illustration du clustering](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI5.png)
 
-<p align="center"> xxx </p>
+<p align="center"> Les carrés correpsondent à des groupes d'individus regroupés selon des critères spatiaux. Les points sont les individus. Les points possédant une même couleur sont regroupés par MOPPI au sein du carré de la même couleur. Ici les individus regourpés ne peuvent pas habiter à plus de 50 km et doivent appartenir à une même zones (découpage en orange). La taille des carrés est proportionnel au nombre d'individus regroupés. </p>
 
 ## RGC4
 
