@@ -13,7 +13,7 @@
 
 ## Géocodage et Distancier
 
-<p align="justify"> Pour résoudre le modèle d'optimisation, il est nécessaire : 1) de disposer de données géocodées concernant les établissements et les employés ; 2) de disposer d'un distancier. C'est pourquoi, MOPPI propose de géocoder des données et de calculer ce distancier, c'est à dire de calculer tous les courts chemins (en termes de tems de parcours) entre les employés et les établissements. Pour calculer, ce distancier deux solutions sont proposées, utiliser des API (par exemple durant la crise) ou utiliser des shapefiles (voire données plus bas). </p>
+<p align="justify"> Pour résoudre le problème d'optimisation, il est nécessaire : 1) de disposer de données géocodées concernant les établissements et les employés ; 2) de disposer d'un distancier. C'est pourquoi, MOPPI propose des outils pour géocoder des données (par exemple des fichiers textes d’adresses) et pour calculer des distanciers. Dans ces distanciers, tous les plus courts chemins (en termes de temps de parcours) entre les employés et les établissements sont calculés. Pour calculer ce distancier, deux solutions sont proposées : 1) utiliser des API (par exemple durant la crise) ; 2) utiliser des shapefiles (pour préparer la continuité d’activité en se fondant sur des scénarios de perturbation des réseaux de transport) (voir la partie « Données » plus bas). </p>
 
 ![Une illustration du distancier](https://github.com/sergelhomme/MOPPI/blob/master/images/MOPPI4.png)
 
