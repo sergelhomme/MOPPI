@@ -1,9 +1,7 @@
 # MOPPI
 <p align="justify"> Plugin QGIS cherchant à minimiser les problèmes de mobilité du personnel d'une entreprise, ou plus généralement d'une organisation, en période d'inondation, MOPPI est l'acronyme de MObilité du Personnel en Période d'Inondation. MOPPI vise à faciliter la continuité d'activité des entreprises et des organisations en permettant à celles-ci de disposer durant l'inondation d'un maximum de personnel. Cet objectif est central pour faciliter la remise en service des infrastructures critiques et plus généralement la résilience des territoires. </p>
 
-![Une illustration de l'objectif](https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png)
-
-<p align="center"> <img src="https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png" height="200"> </p>
+<p align="center"> <img src="https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png" height="250"> </p>
 
 <p align="center"> Dans l'image ci-dessus, une organisation possède deux établissements (A et B) et deux employés (1 et 2). En temps normal, l'individu 1 travaille dans l'établissement B et l'individu 2 travaille dans l'établissement A. En cas d'inondation, ne serait-il pas plus approprié que l'individu 1 travaille dans l'établissement A et l'individu 2 travaille dans l'établissement B, en particulier si le pont est fermé puisque les individus 1 et 2 ne pourront aller travailler ? Pour faire simple, MOPPI a vocation à proposer ce type de solution. </p>
 
