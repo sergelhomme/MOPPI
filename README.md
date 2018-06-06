@@ -3,7 +3,7 @@
 
 ![Une illustration de l'objectif](https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png)
 
-<img src="https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png" height="24">
+<p align="center"> <img src="https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png" height="200"> </p>
 
 <p align="center"> Dans l'image ci-dessus, une organisation possède deux établissements (A et B) et deux employés (1 et 2). En temps normal, l'individu 1 travaille dans l'établissement B et l'individu 2 travaille dans l'établissement A. En cas d'inondation, ne serait-il pas plus approprié que l'individu 1 travaille dans l'établissement A et l'individu 2 travaille dans l'établissement B, en particulier si le pont est fermé puisque les individus 1 et 2 ne pourront aller travailler ? Pour faire simple, MOPPI a vocation à proposer ce type de solution. </p>
 
