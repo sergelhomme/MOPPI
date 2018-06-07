@@ -44,4 +44,4 @@ https://rgc4.wordpress.com/
 
 <p align="justify"> Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement. </p>
 
-<p align="justify"> Enfin, pour télécharger MOPPI, il suffit de cliquer sur le bouton vert en haut à droite de cette page (Clone or download), puis de cliquer sur l'option Download ZIP. Il faut alors dézipper le dossier, puis prendre le dossier nommé "MOPPI" pour le placer dans un répertoire dont le chemin est du type "C:\Program Files\QGIS 2.18\apps\qgis\python\plugins\". </p>
+<p align="justify"> Enfin, pour télécharger MOPPI, il suffit de cliquer sur le bouton vert en haut à droite de cette page (Clone or download), puis de cliquer sur l'option Download ZIP. Il faut alors dézipper le dossier, puis prendre le dossier nommé "MOPPI" pour le placer dans un répertoire dont le chemin est du type "C:\Program Files\QGIS 2.18\apps\qgis\python\plugins\". Un guide d'utilisation sera bientôt disponible ici. </p>
