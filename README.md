@@ -40,6 +40,6 @@ https://rgc4.wordpress.com/
 
 ## Données
 
-<p align="justify"> MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles <a href="http://serge.lhomme.pagesperso-orange.fr/"> ici </a>. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr </p>
+<p align="justify"> MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles <a href="http://serge.lhomme.pagesperso-orange.fr/data/Donnees_MOPPI.zip">ici</a>. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr </p>
 
 <p align="justify"> Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement. </p>
