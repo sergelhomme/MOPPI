@@ -43,3 +43,5 @@ https://rgc4.wordpress.com/
 <p align="justify"> MOPPI nécessite de disposer de données concernant les réseaux de transport. Pour tester l'outil, des données sont disponibles <a href="http://serge.lhomme.pagesperso-orange.fr/data/Donnees_MOPPI.zip">ici</a>. Pour des applications plus précises, veuillez écrire à l'adresse mail suivante : serge.lhomme[at]u-pec.fr </p>
 
 <p align="justify"> Produites dans le cadre du projet RGC4, des données concernant l'Ile-de-France pourront être mises à votre disposition rapidement. </p>
+
+<p align="justify"> Enfin, pour télécharger MOPPI, il suffit de cliquer sur le bouton vert en haut à droite, puis de cliquer sur l'option Download ZIP. Il faut alors dézipper le dossier, puis prendre le dossier nommé "MOPPI" pour le placer dans un répertoire dont le chemin est du type "C:\Program Files\QGIS 2.18\apps\qgis\python\plugins\". </p>
