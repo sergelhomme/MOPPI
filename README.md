@@ -1,6 +1,6 @@
 # MOPPI
 
-<p align="justify"> Plugin QGIS cherchant à minimiser les problèmes de mobilité du personnel d'une entreprise, ou plus généralement d'une organisation, en période d'inondation, MOPPI est l'acronyme de MObilité du Personnel en Période d'Inondation. MOPPI vise à faciliter la continuité d'activité des entreprises et des organisations en permettant à celles-ci de disposer durant l'inondation d'un maximum de personnel. Cet objectif est central pour faciliter la remise en service des infrastructures critiques et plus généralement la résilience des territoires. </p>
+<p align="justify"> Plugin QGIS cherchant à minimiser les problèmes de mobilité du personnel d'une entreprise, ou plus généralement d'une organisation, en période d'inondation, MOPPI est l'acronyme de MObilité du Personnel en Période d'Inondation. MOPPI vise à faciliter la continuité d'activité des entreprises et des organisations en permettant à celles-ci de disposer durant l'inondation d'un maximum de personnel. Cet objectif est central pour faciliter la remise en service des infrastructures critiques et plus généralement la résilience des territoires. L'extension pour QGIS2 est téléchargeable  <a href="http://sergelhomme.fr/data/MOPPI_Older.zip">ici</a>.</p>
 
 <p align="center"> <img src="https://github.com/sergelhomme/MOPPI/blob/master/images/exemple.png" height="225"> </p>
 
