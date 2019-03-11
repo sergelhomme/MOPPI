@@ -1499,7 +1499,7 @@ class Moppi:
 		r = list(nx.connected_components(UG))
 		d = {}
 		for i in range(len(r)):
-			H = G.subgraph(r[i])
+			H = G.subgraph(r[i]).copy()
 			v = dict(nx.get_node_attributes(H, 'demand'))
 			vald = np.array(list(v.items()))
 			s = sum(vald[:,1])
